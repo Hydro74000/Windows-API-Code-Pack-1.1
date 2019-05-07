@@ -8,8 +8,8 @@ using System.Resources;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Microsoft.WindowsAPICodePack.Sensors")]
-[assembly: AssemblyDescription("WindowsAPICodePack for Sensors")]
+[assembly: AssemblyTitle("Microsoft-WindowsAPICodePack-Sensors")]
+[assembly: AssemblyDescription("The Sensors code for the WindowsAPICodePack. This is an updated version containing all available bug fixes for this code as of 2018-02-28")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
 [assembly: AssemblyProduct("Microsoft Windows API Code Pack for .NET Framework")]
@@ -32,6 +32,6 @@ using System.Resources;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("1.1.0.0")]
-[assembly: AssemblyFileVersion("1.1.0.0")]
+[assembly: AssemblyVersion("1.1.3.3")]
+[assembly: AssemblyFileVersion("1.1.3.3")]
 [assembly: NeutralResourcesLanguageAttribute("en")]
